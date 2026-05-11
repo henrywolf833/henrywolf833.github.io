@@ -1,4 +1,4 @@
-# About Me
+# Henry Wolf
 I'm passionate about robotics, perception, and autonomy for space and underwater vehicles! I've worked on computer vision and deep learning problems at NASA's Langley Research Center and Johnson Space Center, and most recently on processing sonar data collected from the Cornell Planetary Habitability & Technology Lab's "Icefin" ROV. My goal is to pursue a Ph.D. thesis related to the simultaneous localization and mapping problem, which will allow us to build robots that can navigate complex 3D environments more fluently.
 
 I'm also very excited about field work! After getting to conduct glaciological research with the PH&T Lab during our 2026 Wolstenholme Fjord field season, I now cannot imagine a future for myself that doesn't involve some kind of field work. Especially one that requires deploying giant, awesome robots.
