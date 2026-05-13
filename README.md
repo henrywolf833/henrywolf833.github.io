@@ -1,6 +1,8 @@
 # Henry Wolf
 
-![Profile Photo](rasmussen_headshot.jpg)
+<p align="center">
+  <img src="wide.jpg" width="75%" />
+</p>
 
 I'm passionate about robotics, perception, and autonomy for space and underwater vehicles! I've worked on computer vision and deep learning projects at NASA's Langley Research Center and Johnson Space Center, and most recently on processing sonar data collected from the Cornell Planetary Habitability & Technology Lab's *Icefin* ROV. My goal is to pursue a Ph.D. thesis related to the simultaneous localization and mapping problem, which will allow us to build robots that can navigate complex 3D environments more fluently---including, potentially, the maze of icebergs and crevasses in front of calving glaciers.
 
@@ -11,7 +13,7 @@ I'm also very excited about field work! After getting to conduct polar research 
 As an undergraduate, I worked with Cornell's [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu/) on projects including SSHOW UP (a 2023 NASA PSTAR project) and the Oceans Across Space and Time collaboration. My undergraduate thesis project, the *Below-Arctic Robotic Navigation, Autonomy, and Charging for Long-term Exploration* (BARNACLE) base station, is a persistent platform that provides *Icefin* with under-ice charging and USBL navigation. The base station also supports our lab's other custom instruments and can act as a persistent science platform to collect time series data.
 
 <p align="center">
-  <img src="icefin_crop.png" width="45%" />
+  <img src="icefin_crop.jpg" width="45%" />
   <img src="barnacle.png" width="45%" />
 </p>
 
