@@ -13,8 +13,8 @@ I'm also very excited about field work! After getting to conduct polar research 
 As an undergraduate, I worked with Cornell's [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu/) on projects including SSHOW UP (a 2023 NASA PSTAR project) and the Oceans Across Space and Time collaboration. My undergraduate thesis project, the *Below-Arctic Robotic Navigation, Autonomy, and Charging for Long-term Exploration* (BARNACLE) base station, is a persistent platform that provides *Icefin* with under-ice charging and USBL navigation. The base station also supports our lab's other custom instruments and can act as a persistent science platform to collect time series data.
 
 <div align="center">
-  <img src="icefin_crop.jpg" height="100"/>
-  <img src="barnacle.png" height="100"/>
+  <img src="icefin_crop.jpg" height="150"/>
+  <img src="barnacle.png" height="150"/>
 </div>
 
 I've also designed some software pipelines for processing the massive volume of forward-looking sonar data collected by *Icefin*, including plotting scripts and a graphical tool that allows users to extract and localize specific features from the sonar feed. I'm very interested in the problem of vision-free AUV navigation, since for robots like *Icefin* we almost exclusively rely on forward sonar to navigate the robot around icebergs and into outflow channels beneath glaciers.
