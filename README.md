@@ -12,7 +12,7 @@ I'm also very excited about field work! After getting to conduct polar research 
 
 As an undergraduate, I worked with Cornell's [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu/) on projects including SSHOW UP (a 2023 NASA PSTAR project) and the Oceans Across Space and Time collaboration. My undergraduate thesis project, the *Below-Arctic Robotic Navigation, Autonomy, and Charging for Long-term Exploration* (BARNACLE) base station, is a persistent platform that provides *Icefin* with under-ice charging and USBL navigation. The base station also supports our lab's other custom instruments and can act as a persistent science platform to collect time series data.
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%">
       <img src="icefin_crop.jpg" style="width:100%; height:150px; object-fit:contain;">
