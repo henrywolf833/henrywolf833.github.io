@@ -12,10 +12,16 @@ I'm also very excited about field work! After getting to conduct polar research 
 
 As an undergraduate, I worked with Cornell's [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu/) on projects including SSHOW UP (a 2023 NASA PSTAR project) and the Oceans Across Space and Time collaboration. My undergraduate thesis project, the *Below-Arctic Robotic Navigation, Autonomy, and Charging for Long-term Exploration* (BARNACLE) base station, is a persistent platform that provides *Icefin* with under-ice charging and USBL navigation. The base station also supports our lab's other custom instruments and can act as a persistent science platform to collect time series data.
 
-<div align="center">
-  <img src="icefin_crop.jpg" height="200"/>
-  <img src="barnacle.png" height="200"/>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="icefin_crop.jpg" style="width:100%; height:150px; object-fit:contain;">
+    </td>
+    <td width="50%">
+      <img src="barnacle.png" style="width:100%; height:150px; object-fit:contain;">
+    </td>
+  </tr>
+</table>
 
 I've also designed some software pipelines for processing the massive volume of forward-looking sonar data collected by *Icefin*, including plotting scripts and a graphical tool that allows users to extract and localize specific features from the sonar feed. I'm very interested in the problem of vision-free AUV navigation, since for robots like *Icefin* we almost exclusively rely on forward sonar to navigate the robot around icebergs and into outflow channels beneath glaciers.
 
@@ -34,4 +40,8 @@ Cornell has a rich ecosystem of student engineering project teams, and the [Auto
 I was a co-lead of the mechanical subteam my Junior year and became very engaged in new member training in addition to the construction of our annual competition robot. Some of my designs include the PCB racks for our 2024 vehicle *Sirius*, the hydraulic actuators system for our 2023 vehicle *Polaris*, and the manipulator for our 2022 vehicle *Aurora*. Every year we compete in the international RoboSub competition, where the robot's goal is to autonomously navigate an obstacle course in a pool while moving game pieces around, firing dummy torpedoes through a goal, and tracking visual targets and acoustic beacons.
 
 We also engage in outreach events every semester! While I was a mechanical lead I designed a game for Ithaca's Scouts BSA troop, where we had the students build miniature ROVs out of PVC pipes and compete in a kiddie-pool-sized version of the RoboSub competition. Project teams like CUAUV are great for getting students of all ages excited about engineering, and I'm looking forward to mentoring similar teams in the future.
+
+## Contact
+
+You can reach me at jhw267@cornell.edu (preferred for now) or 
 
