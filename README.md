@@ -1,5 +1,7 @@
 # Henry Wolf
 
+![Profile Photo](rasmussen_headshot.jpg)
+
 I'm passionate about robotics, perception, and autonomy for space and underwater vehicles! I've worked on computer vision and deep learning projects at NASA's Langley Research Center and Johnson Space Center, and most recently on processing sonar data collected from the Cornell Planetary Habitability & Technology Lab's *Icefin* ROV. My goal is to pursue a Ph.D. thesis related to the simultaneous localization and mapping problem, which will allow us to build robots that can navigate complex 3D environments more fluently---including, potentially, the maze of icebergs and crevasses in front of calving glaciers.
 
 I'm also very excited about field work! After getting to conduct polar research with the PH&T Lab during our 2026 Wolstenholme Fjord field season, I now cannot imagine a future for myself that doesn't involve some kind of field work. Namely, one that requires deploying giant, awesome robots.
@@ -8,7 +10,12 @@ I'm also very excited about field work! After getting to conduct polar research 
 
 As an undergraduate, I worked with Cornell's [Planetary Habitability & Technology Lab](https://schmidt.astro.cornell.edu/) on projects including SSHOW UP (a 2023 NASA PSTAR project) and the Oceans Across Space and Time collaboration. My undergraduate thesis project, the *Below-Arctic Robotic Navigation, Autonomy, and Charging for Long-term Exploration* (BARNACLE) base station, is a persistent platform that provides *Icefin* with under-ice charging and USBL navigation. The base station also supports our lab's other custom instruments and can act as a persistent science platform to collect time series data.
 
-I've also designed some software pipelines for processing the massive volume of forward-looking sonar data collected by *Icefin*, including plotting scripts and a graphical tool that allows users to extract and localize specific features from the sonar feed. I'm very interested in the problem of vision-free AUV navigation, since we (the *Icefin* operators) almost exclusively rely on forward sonar to navigate the robot around icebergs and into outflow channels beneath glaciers.
+<p align="center">
+  <img src="icefin_crop.png" width="45%" />
+  <img src="barnacle.png" width="45%" />
+</p>
+
+I've also designed some software pipelines for processing the massive volume of forward-looking sonar data collected by *Icefin*, including plotting scripts and a graphical tool that allows users to extract and localize specific features from the sonar feed. I'm very interested in the problem of vision-free AUV navigation, since for robots like *Icefin* we almost exclusively rely on forward sonar to navigate the robot around icebergs and into outflow channels beneath glaciers.
 
 In Spring 2026 I was thrilled to join the lab for the first time for field work in Wolstenholme Fjord, Greenland as a part of the SSHOW UP project. Our main goals for this season were to collect a suite of water samples, as well as drive *Icefin* into some of the massive outflow channels that form beneath the fjord's glaciers to collect vertical hydrography data. Some of my responsibilities included setting up and breaking down camp, preparing *Icefin* and our other instruments for dives, and drilling and sawing lots of sea ice. I had never been more challenged in my life and it was completely incredible.
 
